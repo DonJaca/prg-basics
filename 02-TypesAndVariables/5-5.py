@@ -1,0 +1,1 @@
+cena = input("cena")
