@@ -1,4 +1,4 @@
-import math
+﻿import math
 x = int(input("Obwod:"))
 x = x/3.14
 srednica = (x)

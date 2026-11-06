@@ -1,8 +1,4 @@
-###
-# A program that calculates and prints
-# the average grade of a student
-#
-math = 5
+﻿math = 5
 art = 4
 music = 5
 history = '3'

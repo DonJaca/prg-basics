@@ -1,4 +1,4 @@
-x=int(input('predkosc'))
+﻿x=int(input('predkosc'))
 if x <140 or x >40:
     print('kest ok')
 else:

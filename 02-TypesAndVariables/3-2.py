@@ -1,8 +1,4 @@
-###
-# A program that calculates the sum of two numbers.
-# Modify the program to calculate the sum of three numbers.
-#
-number1 = 71
+﻿number1 = 71
 number2 = 14
 number3=1
 result = number1 + number2 + number3
